@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\13978\desktop\最长公共子串\最长公共子串\源.cpp(17): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\13978\desktop\最长公共子串\最长公共子串\源.cpp(19): warning C4018: “<”: 有符号/无符号不匹配
+  最长公共子串.vcxproj -> C:\Users\13978\Desktop\最长公共子串\Debug\最长公共子串.exe
