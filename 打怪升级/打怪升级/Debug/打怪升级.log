@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\13978\desktop\yaogit666\打怪升级\打怪升级\源.cpp(32): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\13978\desktop\yaogit666\打怪升级\打怪升级\源.cpp(20): warning C4715: “math”: 不是所有的控件路径都返回值
+  打怪升级.vcxproj -> C:\Users\13978\Desktop\yaogit666\打怪升级\Debug\打怪升级.exe
