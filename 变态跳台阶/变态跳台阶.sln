@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "变态跳台阶", "变态跳台阶\变态跳台阶.vcxproj", "{D7ACD468-D324-4F97-A963-E31CCD812361}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7ACD468-D324-4F97-A963-E31CCD812361}.Debug|x64.ActiveCfg = Debug|x64
+		{D7ACD468-D324-4F97-A963-E31CCD812361}.Debug|x64.Build.0 = Debug|x64
+		{D7ACD468-D324-4F97-A963-E31CCD812361}.Debug|x86.ActiveCfg = Debug|Win32
+		{D7ACD468-D324-4F97-A963-E31CCD812361}.Debug|x86.Build.0 = Debug|Win32
+		{D7ACD468-D324-4F97-A963-E31CCD812361}.Release|x64.ActiveCfg = Release|x64
+		{D7ACD468-D324-4F97-A963-E31CCD812361}.Release|x64.Build.0 = Release|x64
+		{D7ACD468-D324-4F97-A963-E31CCD812361}.Release|x86.ActiveCfg = Release|Win32
+		{D7ACD468-D324-4F97-A963-E31CCD812361}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2D5C4FD-19AE-41D4-8CBF-B85E4024D831}
+	EndGlobalSection
+EndGlobal
