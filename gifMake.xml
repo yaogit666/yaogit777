@@ -19,8 +19,8 @@
             <Button name="生成" text="生成" float="true" pos="1053,2,0,0" width="62" height="54" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage="C:\Users\13978\Desktop\暴走图片\暴走图片\图片\headerctrl_normal.bmp" hotimage="C:\Users\13978\Desktop\暴走图片\暴走图片\图片\headerctrl_hot.bmp" />
         </HorizontalLayout>
         <HorizontalLayout width="1186" height="66">
-            <Edit float="true" pos="125,2,0,0" width="198" height="57" bkcolor="#FFFFFFFF" textpadding="4,3,4,3" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" />
-            <Edit float="true" pos="462,1,0,0" width="198" height="57" bkcolor="#FFFFFFFF" textpadding="4,3,4,3" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" />
+            <Edit name="edit_start" float="true" pos="125,2,0,0" width="198" height="57" bkcolor="#FFFFFFFF" textpadding="4,3,4,3" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" />
+            <Edit name="edit_end" float="true" pos="462,1,0,0" width="198" height="57" bkcolor="#FFFFFFFF" textpadding="4,3,4,3" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" />
             <Button name="Button2" text="开始" float="true" pos="23,2,0,0" width="64" height="56" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage="C:\Users\13978\Desktop\暴走图片\暴走图片\图片\headerctrl_normal.bmp" hotimage="C:\Users\13978\Desktop\暴走图片\暴走图片\图片\headerctrl_hot.bmp" />
             <Button name="Button3" text="结束" float="true" pos="355,0,0,0" width="68" height="61" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage="C:\Users\13978\Desktop\暴走图片\暴走图片\图片\headerctrl_normal.bmp" hotimage="C:\Users\13978\Desktop\暴走图片\暴走图片\图片\headerctrl_hot.bmp" />
         </HorizontalLayout>
@@ -32,7 +32,7 @@
                 </ListHeader>
             </List>
         </VerticalLayout>
-        <Edit float="true" pos="664,189,0,0" width="445" height="397" bkcolor="#FFFFFFFF" textpadding="4,3,4,3" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" />
+        <Edit name="edit_word" float="true" pos="664,189,0,0" width="445" height="397" bkcolor="#FFFFFFFF" textpadding="4,3,4,3" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" />
         <Button name="Button4" text="《《" float="true" pos="824,602,0,0" width="135" height="61" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage="C:\Users\13978\Desktop\暴走图片\暴走图片\图片\headerctrl_normal.bmp" hotimage="C:\Users\13978\Desktop\暴走图片\暴走图片\图片\headerctrl_hot.bmp" />
     </VerticalLayout>
 </Window>
