@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Window size="1191,708">
+    <VerticalLayout width="1191" height="708" bkimage="C:\Users\13978\Desktop\暴走图片\暴走图片\图片\QQ图片20191219130249.png">
+        <HorizontalLayout width="1187" height="59">
+            <Button name="close" float="true" pos="1123,0,0,0" width="65" height="58" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage="C:\Users\13978\Desktop\暴走图片\暴走图片\图片\frame_btn_close_normal.bmp" hotimage="C:\Users\13978\Desktop\暴走图片\暴走图片\图片\frame_btn_close_hot.bmp" pushedimage="C:\Users\13978\Desktop\暴走图片\暴走图片\图片\frame_btn_close_disable.bmp" />
+            <Button name="small" float="true" pos="1058,0,0,0" width="65" height="58" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage="file=&apos;C:\Users\13978\Desktop\暴走图片\暴走图片\图片\frame_btn_min.bmp&apos; source=&apos;0,0,26,18&apos;" hotimage="file=&apos;C:\Users\13978\Desktop\暴走图片\暴走图片\图片\frame_btn_min.bmp&apos; source=&apos;26,0,52,18&apos;" pushedimage="file=&apos;C:\Users\13978\Desktop\暴走图片\暴走图片\图片\frame_btn_min.bmp&apos; source=&apos;52,0,78,18&apos;" />
+        </HorizontalLayout>
+        <HorizontalLayout width="1187" height="59">
+            <Edit float="true" pos="221,6,0,0" width="343" height="48" bkcolor="#FFFFFFFF" textpadding="4,3,4,3" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" />
+            <Combo name="Combo1" text=" 图 片" float="true" pos="20,5,0,0" width="176" height="51" itemtextcolor="#FF000000" itemselectedtextcolor="#FF000000" itemselectedbkcolor="#FFC1E3FF" itemhottextcolor="#FF000000" itemhotbkcolor="#FFE9F5FF" itemdisabledtextcolor="#FFCCCCCC" itemdisabledbkcolor="#FFFFFFFF" normalimage="C:\Users\13978\Desktop\暴走图片\暴走图片\图片\Combo_nor.bmp" hotimage="C:\Users\13978\Desktop\暴走图片\暴走图片\图片\Combo_over.bmp" dropboxsize="0,150">
+                <ListLabelElement />
+                <ListLabelElement />
+            </Combo>
+            <Button name="Button1" text="加载" float="true" pos="598,2,0,0" width="62" height="54" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage="C:\Users\13978\Desktop\暴走图片\暴走图片\图片\headerctrl_normal.bmp" hotimage="C:\Users\13978\Desktop\暴走图片\暴走图片\图片\headerctrl_hot.bmp" />
+            <Button name="提取1" text="提取SRT" float="true" pos="689,2,0,0" width="62" height="54" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage="C:\Users\13978\Desktop\暴走图片\暴走图片\图片\headerctrl_normal.bmp" hotimage="C:\Users\13978\Desktop\暴走图片\暴走图片\图片\headerctrl_hot.bmp" />
+            <Button name="写入" text="写入SRT" float="true" pos="780,2,0,0" width="62" height="54" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage="C:\Users\13978\Desktop\暴走图片\暴走图片\图片\headerctrl_normal.bmp" hotimage="C:\Users\13978\Desktop\暴走图片\暴走图片\图片\headerctrl_hot.bmp" />
+            <Button name="提取2" text="提取视频" float="true" pos="871,2,0,0" width="62" height="54" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage="C:\Users\13978\Desktop\暴走图片\暴走图片\图片\headerctrl_normal.bmp" hotimage="C:\Users\13978\Desktop\暴走图片\暴走图片\图片\headerctrl_hot.bmp" />
+            <Button name="烧录" text="烧录" float="true" pos="962,2,0,0" width="62" height="54" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage="C:\Users\13978\Desktop\暴走图片\暴走图片\图片\headerctrl_normal.bmp" hotimage="C:\Users\13978\Desktop\暴走图片\暴走图片\图片\headerctrl_hot.bmp" />
+            <Button name="生成" text="生成" float="true" pos="1053,2,0,0" width="62" height="54" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage="C:\Users\13978\Desktop\暴走图片\暴走图片\图片\headerctrl_normal.bmp" hotimage="C:\Users\13978\Desktop\暴走图片\暴走图片\图片\headerctrl_hot.bmp" />
+        </HorizontalLayout>
+        <HorizontalLayout width="1186" height="66">
+            <Edit float="true" pos="125,2,0,0" width="198" height="57" bkcolor="#FFFFFFFF" textpadding="4,3,4,3" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" />
+            <Edit float="true" pos="462,1,0,0" width="198" height="57" bkcolor="#FFFFFFFF" textpadding="4,3,4,3" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" />
+            <Button name="Button2" text="开始" float="true" pos="23,2,0,0" width="64" height="56" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage="C:\Users\13978\Desktop\暴走图片\暴走图片\图片\headerctrl_normal.bmp" hotimage="C:\Users\13978\Desktop\暴走图片\暴走图片\图片\headerctrl_hot.bmp" />
+            <Button name="Button3" text="结束" float="true" pos="355,0,0,0" width="68" height="61" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage="C:\Users\13978\Desktop\暴走图片\暴走图片\图片\headerctrl_normal.bmp" hotimage="C:\Users\13978\Desktop\暴走图片\暴走图片\图片\headerctrl_hot.bmp" />
+        </HorizontalLayout>
+        <VerticalLayout width="655" height="482">
+            <List name="List1" width="655" height="482" itemtextcolor="#FF000000" itemselectedtextcolor="#FF000000" itemselectedbkcolor="#FFC1E3FF" itemhottextcolor="#FF000000" itemhotbkcolor="#FFE9F5FF" itemdisabledtextcolor="#FFCCCCCC" itemdisabledbkcolor="#FFFFFFFF" headerbkimage="List/list_header_bg.png">
+                <ListHeader name="domain" bkimage="List/list_header_bg.png">
+                    <ListHeaderItem text="时间" width="40" height="23" minwidth="16" textcolor="#FF000000" sepwidth="1" align="center" hotimage="List/list_header_hot.png" pushedimage="List/list_header_pushed.png" sepimage="List/list_header_sep.png" />
+                    <ListHeaderItem text="文本" width="84" height="23" minwidth="16" textcolor="#FF000000" sepwidth="1" align="center" hotimage="List/list_header_hot.png" pushedimage="List/list_header_pushed.png" sepimage="List/list_header_sep.png" />
+                </ListHeader>
+            </List>
+        </VerticalLayout>
+        <Edit float="true" pos="664,189,0,0" width="445" height="397" bkcolor="#FFFFFFFF" textpadding="4,3,4,3" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" />
+        <Button name="Button4" text="《《" float="true" pos="824,602,0,0" width="135" height="61" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage="C:\Users\13978\Desktop\暴走图片\暴走图片\图片\headerctrl_normal.bmp" hotimage="C:\Users\13978\Desktop\暴走图片\暴走图片\图片\headerctrl_hot.bmp" />
+    </VerticalLayout>
+</Window>
