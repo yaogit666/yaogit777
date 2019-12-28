@@ -1,0 +1,15 @@
+﻿  源.cpp
+c:\users\13978\desktop\yaogit666\用两个栈实现队列\用两个栈实现队列\源.cpp(24): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+c:\users\13978\desktop\yaogit666\用两个栈实现队列\用两个栈实现队列\源.cpp(24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\13978\desktop\yaogit666\用两个栈实现队列\用两个栈实现队列\源.cpp(24): error C2238: 意外的标记位于“;”之前
+c:\users\13978\desktop\yaogit666\用两个栈实现队列\用两个栈实现队列\源.cpp(25): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+c:\users\13978\desktop\yaogit666\用两个栈实现队列\用两个栈实现队列\源.cpp(25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\13978\desktop\yaogit666\用两个栈实现队列\用两个栈实现队列\源.cpp(25): error C2238: 意外的标记位于“;”之前
+c:\users\13978\desktop\yaogit666\用两个栈实现队列\用两个栈实现队列\源.cpp(5): error C2065: “stack1”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\用两个栈实现队列\用两个栈实现队列\源.cpp(9): error C2065: “stack2”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\用两个栈实现队列\用两个栈实现队列\源.cpp(11): error C2065: “stack1”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\用两个栈实现队列\用两个栈实现队列\源.cpp(13): error C2065: “stack1”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\用两个栈实现队列\用两个栈实现队列\源.cpp(14): error C2065: “stack1”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\用两个栈实现队列\用两个栈实现队列\源.cpp(15): error C2065: “stack2”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\用两个栈实现队列\用两个栈实现队列\源.cpp(18): error C2065: “stack2”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\用两个栈实现队列\用两个栈实现队列\源.cpp(19): error C2065: “stack2”: 未声明的标识符
