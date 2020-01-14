@@ -1,0 +1,15 @@
+﻿  Slist.c
+c:\数据结构\单链表\单链表\slist.c(27): warning C4013: “malloc”未定义；假设外部返回 int
+c:\数据结构\单链表\单链表\slist.c(31): warning C4033: “MakeNewNode”必须返回值
+c:\数据结构\单链表\单链表\slist.c(35): warning C4133: “return”: 从“Node *”到“SData *”的类型不兼容
+c:\数据结构\单链表\单链表\slist.c(44): warning C4133: “初始化”: 从“SData *”到“Node *”的类型不兼容
+c:\数据结构\单链表\单链表\slist.c(77): warning C4013: “free”未定义；假设外部返回 int
+c:\数据结构\单链表\单链表\slist.c(86): warning C4133: “初始化”: 从“SData *”到“Node *”的类型不兼容
+c:\数据结构\单链表\单链表\slist.c(108): warning C4133: “初始化”: 从“SData *”到“Node *”的类型不兼容
+c:\数据结构\单链表\单链表\slist.c(186): warning C4047: “return”:“Node *”与“SData”的间接级别不同
+c:\数据结构\单链表\单链表\slist.c(193): warning C4047: “return”:“Node *”与“SData”的间接级别不同
+  test.c
+c:\数据结构\单链表\单链表\test.c(33): warning C4013: “system”未定义；假设外部返回 int
+  正在生成代码...
+c:\数据结构\单链表\单链表\slist.c(36): warning C4715: “MakeNewNode”: 不是所有的控件路径都返回值
+  单链表.vcxproj -> C:\数据结构\单链表\Debug\单链表.exe
