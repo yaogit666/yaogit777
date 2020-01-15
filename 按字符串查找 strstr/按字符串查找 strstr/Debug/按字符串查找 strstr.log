@@ -1,0 +1,5 @@
+﻿  源.c
+c:\c语言程序\部分库函数实现\按字符串查找 strstr\按字符串查找 strstr\源.c(19): warning C4090: “return”: 不同的“const”限定符
+c:\c语言程序\部分库函数实现\按字符串查找 strstr\按字符串查找 strstr\源.c(29): warning C4013: “system”未定义；假设外部返回 int
+c:\c语言程序\部分库函数实现\按字符串查找 strstr\按字符串查找 strstr\源.c(22): warning C4715: “my_strstr”: 不是所有的控件路径都返回值
+  按字符串查找 strstr.vcxproj -> C:\c语言程序\部分库函数实现\按字符串查找 strstr\Debug\按字符串查找 strstr.exe
