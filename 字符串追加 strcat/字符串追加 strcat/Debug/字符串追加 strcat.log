@@ -1,0 +1,5 @@
+﻿  源.c
+c:\c语言程序\部分库函数实现\字符串追加 strcat\字符串追加 strcat\源.c(15): warning C4047: “return”:“char *”与“int”的间接级别不同
+c:\c语言程序\部分库函数实现\字符串追加 strcat\字符串追加 strcat\源.c(6): warning C4047: “初始化”:“int”与“char *”的间接级别不同
+c:\c语言程序\部分库函数实现\字符串追加 strcat\字符串追加 strcat\源.c(23): warning C4013: “system”未定义；假设外部返回 int
+  字符串追加 strcat.vcxproj -> C:\c语言程序\部分库函数实现\字符串追加 strcat\Debug\字符串追加 strcat.exe
