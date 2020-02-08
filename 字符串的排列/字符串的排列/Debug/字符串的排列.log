@@ -1,0 +1,25 @@
+﻿  源.cpp
+c:\users\13978\desktop\yaogit666\字符串的排列\字符串的排列\源.cpp(3): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+c:\users\13978\desktop\yaogit666\字符串的排列\字符串的排列\源.cpp(3): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\13978\desktop\yaogit666\字符串的排列\字符串的排列\源.cpp(3): error C2334: “{”的前面有意外标记；跳过明显的函数体
+c:\users\13978\desktop\yaogit666\字符串的排列\字符串的排列\源.cpp(12): error C2061: 语法错误: 标识符“string”
+c:\users\13978\desktop\yaogit666\字符串的排列\字符串的排列\源.cpp(14): error C2065: “begin”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\字符串的排列\字符串的排列\源.cpp(14): error C2065: “str”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\字符串的排列\字符串的排列\源.cpp(16): error C2065: “v”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\字符串的排列\字符串的排列\源.cpp(16): error C2065: “str”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\字符串的排列\字符串的排列\源.cpp(16): error C3861: “find”: 找不到标识符
+c:\users\13978\desktop\yaogit666\字符串的排列\字符串的排列\源.cpp(18): error C2065: “v”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\字符串的排列\字符串的排列\源.cpp(18): error C2065: “str”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\字符串的排列\字符串的排列\源.cpp(23): error C2065: “begin”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\字符串的排列\字符串的排列\源.cpp(23): error C2065: “str”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\字符串的排列\字符串的排列\源.cpp(25): error C2065: “str”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\字符串的排列\字符串的排列\源.cpp(25): error C2065: “begin”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\字符串的排列\字符串的排列\源.cpp(25): error C2660: “Solution::swap”: 函数不接受 1 个参数
+  c:\users\13978\desktop\yaogit666\字符串的排列\字符串的排列\源.cpp(32): note: 参见“Solution::swap”的声明
+c:\users\13978\desktop\yaogit666\字符串的排列\字符串的排列\源.cpp(26): error C2065: “str”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\字符串的排列\字符串的排列\源.cpp(26): error C2065: “v”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\字符串的排列\字符串的排列\源.cpp(26): error C2065: “begin”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\字符串的排列\字符串的排列\源.cpp(27): error C2065: “str”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\字符串的排列\字符串的排列\源.cpp(27): error C2065: “begin”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\字符串的排列\字符串的排列\源.cpp(27): error C2660: “Solution::swap”: 函数不接受 1 个参数
+  c:\users\13978\desktop\yaogit666\字符串的排列\字符串的排列\源.cpp(32): note: 参见“Solution::swap”的声明
