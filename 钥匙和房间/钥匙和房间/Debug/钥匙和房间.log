@@ -3,23 +3,22 @@ c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(3): err
 c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(14): error C2061: 语法错误: 标识符“vector”
 c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(4): error C2065: “vector”: 未声明的标识符
 c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(4): error C2062: 意外的类型“bool”
-c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(5): error C2065: “rooms”: 未声明的标识符
 c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(5): error C2065: “v”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(5): error C2065: “rooms”: 未声明的标识符
 c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(6): error C2065: “v”: 未声明的标识符
-c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(7): error C2065: “v”: 未声明的标识符
-c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(9): error C2065: “v”: 未声明的标识符
-c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(17): error C2065: “vector”: 未声明的标识符
-c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(17): error C2062: 意外的类型“int”
-c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(18): error C2065: “vec”: 未声明的标识符
-c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(20): error C2065: “v”: 未声明的标识符
-c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(20): error C2065: “vec”: 未声明的标识符
-c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(22): error C2065: “v”: 未声明的标识符
-c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(22): error C2065: “vec”: 未声明的标识符
-c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(23): error C2065: “rooms”: 未声明的标识符
-c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(23): error C2065: “vec”: 未声明的标识符
-c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(25): error C2065: “vec1”: 未声明的标识符
-c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(25): error C2065: “rooms”: 未声明的标识符
-c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(25): error C2065: “vec”: 未声明的标识符
-c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(26): error C2065: “rooms”: 未声明的标识符
-c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(26): error C2065: “vec1”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(8): error C2065: “v”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(16): error C2065: “vector”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(16): error C2062: 意外的类型“int”
+c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(17): error C2065: “vv”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(19): error C2065: “v”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(19): error C2065: “vv”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(21): error C2065: “v”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(21): error C2065: “vv”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(22): error C2065: “rooms”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(22): error C2065: “vv”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(24): error C2065: “vvv”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(24): error C2065: “rooms”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(24): error C2065: “vv”: 未声明的标识符
 c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(26): error C2065: “v”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(26): error C2065: “rooms”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\钥匙和房间\钥匙和房间\源.cpp(26): error C2065: “vvv”: 未声明的标识符
