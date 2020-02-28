@@ -1,0 +1,6 @@
+﻿  源.cpp
+c:\users\13978\desktop\yaogit666\朋友圈（并查集）\朋友圈（并查集）\源.cpp(32): error C2061: 语法错误: 标识符“vector”
+c:\users\13978\desktop\yaogit666\朋友圈（并查集）\朋友圈（并查集）\源.cpp(35): error C2065: “M”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\朋友圈（并查集）\朋友圈（并查集）\源.cpp(37): error C2065: “M”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\朋友圈（并查集）\朋友圈（并查集）\源.cpp(39): error C2065: “M”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\朋友圈（并查集）\朋友圈（并查集）\源.cpp(47): error C2065: “M”: 未声明的标识符
