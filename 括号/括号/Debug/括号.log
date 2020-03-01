@@ -1,0 +1,28 @@
+﻿  源.cpp
+c:\users\13978\desktop\yaogit666\括号\括号\源.cpp(3): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+c:\users\13978\desktop\yaogit666\括号\括号\源.cpp(3): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\13978\desktop\yaogit666\括号\括号\源.cpp(3): error C2238: 意外的标记位于“;”之前
+c:\users\13978\desktop\yaogit666\括号\括号\源.cpp(4): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+c:\users\13978\desktop\yaogit666\括号\括号\源.cpp(4): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\13978\desktop\yaogit666\括号\括号\源.cpp(5): error C2334: “{”的前面有意外标记；跳过明显的函数体
+c:\users\13978\desktop\yaogit666\括号\括号\源.cpp(10): error C2061: 语法错误: 标识符“string”
+c:\users\13978\desktop\yaogit666\括号\括号\源.cpp(12): error C2065: “s”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\括号\括号\源.cpp(12): error C2065: “n”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\括号\括号\源.cpp(14): error C2065: “v”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\括号\括号\源.cpp(14): error C2065: “s”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\括号\括号\源.cpp(17): error C2065: “left”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\括号\括号\源.cpp(17): error C2065: “n”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\括号\括号\源.cpp(19): error C2065: “s”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\括号\括号\源.cpp(19): error C2065: “left”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\括号\括号\源.cpp(19): error C2065: “right”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\括号\括号\源.cpp(19): error C2065: “n”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\括号\括号\源.cpp(19): error C2660: “Solution::push”: 函数不接受 3 个参数
+  c:\users\13978\desktop\yaogit666\括号\括号\源.cpp(10): note: 参见“Solution::push”的声明
+c:\users\13978\desktop\yaogit666\括号\括号\源.cpp(21): error C2065: “right”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\括号\括号\源.cpp(21): error C2065: “left”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\括号\括号\源.cpp(23): error C2065: “s”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\括号\括号\源.cpp(23): error C2065: “left”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\括号\括号\源.cpp(23): error C2065: “right”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\括号\括号\源.cpp(23): error C2065: “n”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\括号\括号\源.cpp(23): error C2660: “Solution::push”: 函数不接受 3 个参数
+  c:\users\13978\desktop\yaogit666\括号\括号\源.cpp(10): note: 参见“Solution::push”的声明
