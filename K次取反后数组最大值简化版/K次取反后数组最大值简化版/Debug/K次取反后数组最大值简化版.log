@@ -1,0 +1,15 @@
+﻿  源.cpp
+c:\users\13978\desktop\yaogit666\k次取反后数组最大值简化版\k次取反后数组最大值简化版\源.cpp(4): error C2061: 语法错误: 标识符“vector”
+c:\users\13978\desktop\yaogit666\k次取反后数组最大值简化版\k次取反后数组最大值简化版\源.cpp(6): error C2065: “A”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\k次取反后数组最大值简化版\k次取反后数组最大值简化版\源.cpp(6): error C3861: “sort”: 找不到标识符
+c:\users\13978\desktop\yaogit666\k次取反后数组最大值简化版\k次取反后数组最大值简化版\源.cpp(7): error C2065: “A”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\k次取反后数组最大值简化版\k次取反后数组最大值简化版\源.cpp(9): error C2065: “K”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\k次取反后数组最大值简化版\k次取反后数组最大值简化版\源.cpp(9): error C2065: “A”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\k次取反后数组最大值简化版\k次取反后数组最大值简化版\源.cpp(11): error C2065: “K”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\k次取反后数组最大值简化版\k次取反后数组最大值简化版\源.cpp(12): error C2065: “A”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\k次取反后数组最大值简化版\k次取反后数组最大值简化版\源.cpp(20): error C2065: “K”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\k次取反后数组最大值简化版\k次取反后数组最大值简化版\源.cpp(22): error C2065: “A”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\k次取反后数组最大值简化版\k次取反后数组最大值简化版\源.cpp(22): error C3861: “sort”: 找不到标识符
+c:\users\13978\desktop\yaogit666\k次取反后数组最大值简化版\k次取反后数组最大值简化版\源.cpp(23): error C2065: “A”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\k次取反后数组最大值简化版\k次取反后数组最大值简化版\源.cpp(25): error C2065: “A”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\k次取反后数组最大值简化版\k次取反后数组最大值简化版\源.cpp(27): error C2065: “A”: 未声明的标识符
