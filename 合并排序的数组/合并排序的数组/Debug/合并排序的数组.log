@@ -1,0 +1,9 @@
+﻿  源.cpp
+c:\users\13978\desktop\yaogit666\合并排序的数组\合并排序的数组\源.cpp(3): error C2061: 语法错误: 标识符“vector”
+c:\users\13978\desktop\yaogit666\合并排序的数组\合并排序的数组\源.cpp(4): error C2065: “B”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\合并排序的数组\合并排序的数组\源.cpp(7): error C2065: “m”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\合并排序的数组\合并排序的数组\源.cpp(7): error C2065: “A”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\合并排序的数组\合并排序的数组\源.cpp(9): error C2065: “A”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\合并排序的数组\合并排序的数组\源.cpp(9): error C2065: “B”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\合并排序的数组\合并排序的数组\源.cpp(12): error C2065: “A”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\合并排序的数组\合并排序的数组\源.cpp(12): error C3861: “sort”: 找不到标识符
