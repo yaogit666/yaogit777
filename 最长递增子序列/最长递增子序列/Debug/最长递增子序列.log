@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\13978\desktop\yaogit666\最长递增子序列\最长递增子序列\源.cpp(1): error C2059: 语法错误:“public”
+c:\users\13978\desktop\yaogit666\最长递增子序列\最长递增子序列\源.cpp(1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+c:\users\13978\desktop\yaogit666\最长递增子序列\最长递增子序列\源.cpp(1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
