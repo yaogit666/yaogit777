@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\13978\desktop\yaogit666\高楼扔鸡蛋\高楼扔鸡蛋\源.cpp(4): error C2065: “vector”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\高楼扔鸡蛋\高楼扔鸡蛋\源.cpp(4): error C2062: 意外的类型“int”
+c:\users\13978\desktop\yaogit666\高楼扔鸡蛋\高楼扔鸡蛋\源.cpp(6): error C2065: “dp”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\高楼扔鸡蛋\高楼扔鸡蛋\源.cpp(11): error C2065: “dp”: 未声明的标识符
