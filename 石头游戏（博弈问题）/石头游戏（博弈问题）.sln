@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "石头游戏（博弈问题）", "石头游戏（博弈问题）\石头游戏（博弈问题）.vcxproj", "{D72B48E6-7ACA-40A9-8E91-E9BFFDEAEA98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D72B48E6-7ACA-40A9-8E91-E9BFFDEAEA98}.Debug|x64.ActiveCfg = Debug|x64
+		{D72B48E6-7ACA-40A9-8E91-E9BFFDEAEA98}.Debug|x64.Build.0 = Debug|x64
+		{D72B48E6-7ACA-40A9-8E91-E9BFFDEAEA98}.Debug|x86.ActiveCfg = Debug|Win32
+		{D72B48E6-7ACA-40A9-8E91-E9BFFDEAEA98}.Debug|x86.Build.0 = Debug|Win32
+		{D72B48E6-7ACA-40A9-8E91-E9BFFDEAEA98}.Release|x64.ActiveCfg = Release|x64
+		{D72B48E6-7ACA-40A9-8E91-E9BFFDEAEA98}.Release|x64.Build.0 = Release|x64
+		{D72B48E6-7ACA-40A9-8E91-E9BFFDEAEA98}.Release|x86.ActiveCfg = Release|Win32
+		{D72B48E6-7ACA-40A9-8E91-E9BFFDEAEA98}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B90062C-F3F6-4152-B7C9-C7C97B123BDA}
+	EndGlobalSection
+EndGlobal
