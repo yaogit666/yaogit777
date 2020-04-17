@@ -1,0 +1,33 @@
+﻿  源.cpp
+c:\users\13978\desktop\yaogit666\求和路径\求和路径\源.cpp(12): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+c:\users\13978\desktop\yaogit666\求和路径\求和路径\源.cpp(12): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\13978\desktop\yaogit666\求和路径\求和路径\源.cpp(12): error C2238: 意外的标记位于“;”之前
+c:\users\13978\desktop\yaogit666\求和路径\求和路径\源.cpp(14): error C2061: 语法错误: 标识符“TreeNode”
+c:\users\13978\desktop\yaogit666\求和路径\求和路径\源.cpp(18): error C2061: 语法错误: 标识符“TreeNode”
+c:\users\13978\desktop\yaogit666\求和路径\求和路径\源.cpp(15): error C2065: “root”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\求和路径\求和路径\源.cpp(15): error C2065: “sum”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\求和路径\求和路径\源.cpp(20): error C2065: “root”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\求和路径\求和路径\源.cpp(22): error C2065: “v”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\求和路径\求和路径\源.cpp(22): error C2065: “root”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\求和路径\求和路径\源.cpp(23): error C2065: “s”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\求和路径\求和路径\源.cpp(23): error C2065: “root”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\求和路径\求和路径\源.cpp(24): error C2065: “s”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\求和路径\求和路径\源.cpp(25): error C2065: “s”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\求和路径\求和路径\源.cpp(25): error C2065: “sum”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\求和路径\求和路径\源.cpp(27): error C2065: “v”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\求和路径\求和路径\源.cpp(29): error C2065: “v”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\求和路径\求和路径\源.cpp(30): error C2065: “sum”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\求和路径\求和路径\源.cpp(33): error C2065: “root”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\求和路径\求和路径\源.cpp(35): error C2065: “root”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\求和路径\求和路径\源.cpp(35): error C2065: “sum”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\求和路径\求和路径\源.cpp(35): error C2065: “s”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\求和路径\求和路径\源.cpp(35): error C2660: “Solution::path”: 函数不接受 3 个参数
+  c:\users\13978\desktop\yaogit666\求和路径\求和路径\源.cpp(18): note: 参见“Solution::path”的声明
+c:\users\13978\desktop\yaogit666\求和路径\求和路径\源.cpp(36): error C2065: “v”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\求和路径\求和路径\源.cpp(38): error C2065: “root”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\求和路径\求和路径\源.cpp(40): error C2065: “root”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\求和路径\求和路径\源.cpp(40): error C2065: “sum”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\求和路径\求和路径\源.cpp(40): error C2065: “s”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\求和路径\求和路径\源.cpp(40): error C2660: “Solution::path”: 函数不接受 3 个参数
+  c:\users\13978\desktop\yaogit666\求和路径\求和路径\源.cpp(18): note: 参见“Solution::path”的声明
+c:\users\13978\desktop\yaogit666\求和路径\求和路径\源.cpp(41): error C2065: “v”: 未声明的标识符
