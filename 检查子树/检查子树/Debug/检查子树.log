@@ -1,0 +1,27 @@
+﻿  源.cpp
+c:\users\13978\desktop\yaogit666\检查子树\检查子树\源.cpp(12): error C2061: 语法错误: 标识符“TreeNode”
+c:\users\13978\desktop\yaogit666\检查子树\检查子树\源.cpp(22): error C2061: 语法错误: 标识符“TreeNode”
+c:\users\13978\desktop\yaogit666\检查子树\检查子树\源.cpp(13): error C2065: “t1”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\检查子树\检查子树\源.cpp(13): error C2065: “NULL”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\检查子树\检查子树\源.cpp(13): error C2065: “t2”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\检查子树\检查子树\源.cpp(15): error C2065: “t1”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\检查子树\检查子树\源.cpp(15): error C2065: “NULL”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\检查子树\检查子树\源.cpp(15): error C2065: “t2”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\检查子树\检查子树\源.cpp(17): error C2065: “t1”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\检查子树\检查子树\源.cpp(17): error C2065: “t2”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\检查子树\检查子树\源.cpp(19): error C2065: “t1”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\检查子树\检查子树\源.cpp(19): error C2065: “t2”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\检查子树\检查子树\源.cpp(19): error C2660: “Solution::checkSubTree”: 函数不接受 2 个参数
+  c:\users\13978\desktop\yaogit666\检查子树\检查子树\源.cpp(12): note: 参见“Solution::checkSubTree”的声明
+c:\users\13978\desktop\yaogit666\检查子树\检查子树\源.cpp(24): error C2065: “t1”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\检查子树\检查子树\源.cpp(24): error C2065: “NULL”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\检查子树\检查子树\源.cpp(24): error C2065: “t2”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\检查子树\检查子树\源.cpp(26): error C2065: “t1”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\检查子树\检查子树\源.cpp(26): error C2065: “NULL”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\检查子树\检查子树\源.cpp(26): error C2065: “t2”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\检查子树\检查子树\源.cpp(29): error C2065: “t1”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\检查子树\检查子树\源.cpp(29): error C2065: “t2”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\检查子树\检查子树\源.cpp(30): error C2065: “t1”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\检查子树\检查子树\源.cpp(30): error C2065: “t2”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\检查子树\检查子树\源.cpp(30): error C2660: “Solution::dfs”: 函数不接受 1 个参数
+  c:\users\13978\desktop\yaogit666\检查子树\检查子树\源.cpp(22): note: 参见“Solution::dfs”的声明
