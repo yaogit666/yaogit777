@@ -1,0 +1,26 @@
+﻿  源.cpp
+c:\users\13978\desktop\yaogit666\栈化队列\栈化队列\源.cpp(4): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+c:\users\13978\desktop\yaogit666\栈化队列\栈化队列\源.cpp(4): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\13978\desktop\yaogit666\栈化队列\栈化队列\源.cpp(4): error C2238: 意外的标记位于“;”之前
+c:\users\13978\desktop\yaogit666\栈化队列\栈化队列\源.cpp(5): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+c:\users\13978\desktop\yaogit666\栈化队列\栈化队列\源.cpp(5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\13978\desktop\yaogit666\栈化队列\栈化队列\源.cpp(5): error C2238: 意外的标记位于“;”之前
+c:\users\13978\desktop\yaogit666\栈化队列\栈化队列\源.cpp(13): error C2065: “s1”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\栈化队列\栈化队列\源.cpp(18): error C2065: “s2”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\栈化队列\栈化队列\源.cpp(20): error C2065: “s2”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\栈化队列\栈化队列\源.cpp(21): error C2065: “s2”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\栈化队列\栈化队列\源.cpp(26): error C2065: “s1”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\栈化队列\栈化队列\源.cpp(28): error C2065: “s1”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\栈化队列\栈化队列\源.cpp(29): error C2065: “s1”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\栈化队列\栈化队列\源.cpp(30): error C2065: “s2”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\栈化队列\栈化队列\源.cpp(32): error C2065: “s2”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\栈化队列\栈化队列\源.cpp(33): error C2065: “s2”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\栈化队列\栈化队列\源.cpp(40): error C2065: “s2”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\栈化队列\栈化队列\源.cpp(42): error C2065: “s2”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\栈化队列\栈化队列\源.cpp(46): error C2065: “s1”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\栈化队列\栈化队列\源.cpp(48): error C2065: “s2”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\栈化队列\栈化队列\源.cpp(48): error C2065: “s1”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\栈化队列\栈化队列\源.cpp(49): error C2065: “s1”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\栈化队列\栈化队列\源.cpp(51): error C2065: “s2”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\栈化队列\栈化队列\源.cpp(57): error C2065: “s1”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\栈化队列\栈化队列\源.cpp(57): error C2065: “s2”: 未声明的标识符
