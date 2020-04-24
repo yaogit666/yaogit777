@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\13978\desktop\yaogit666\url化\url化\源.cpp(3): error C3646: “replaceSpaces”: 未知重写说明符
+c:\users\13978\desktop\yaogit666\url化\url化\源.cpp(3): error C2059: 语法错误:“(”
+c:\users\13978\desktop\yaogit666\url化\url化\源.cpp(3): error C2334: “{”的前面有意外标记；跳过明显的函数体
