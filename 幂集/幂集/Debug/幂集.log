@@ -1,0 +1,21 @@
+﻿  源.cpp
+c:\users\13978\desktop\yaogit666\幂集\幂集\源.cpp(3): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+c:\users\13978\desktop\yaogit666\幂集\幂集\源.cpp(3): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\13978\desktop\yaogit666\幂集\幂集\源.cpp(3): error C2238: 意外的标记位于“;”之前
+c:\users\13978\desktop\yaogit666\幂集\幂集\源.cpp(4): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+c:\users\13978\desktop\yaogit666\幂集\幂集\源.cpp(4): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\13978\desktop\yaogit666\幂集\幂集\源.cpp(4): error C2238: 意外的标记位于“;”之前
+c:\users\13978\desktop\yaogit666\幂集\幂集\源.cpp(5): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+c:\users\13978\desktop\yaogit666\幂集\幂集\源.cpp(5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\13978\desktop\yaogit666\幂集\幂集\源.cpp(5): error C2334: “{”的前面有意外标记；跳过明显的函数体
+c:\users\13978\desktop\yaogit666\幂集\幂集\源.cpp(11): error C2061: 语法错误: 标识符“vector”
+c:\users\13978\desktop\yaogit666\幂集\幂集\源.cpp(13): error C2065: “n”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\幂集\幂集\源.cpp(13): error C2065: “nums”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\幂集\幂集\源.cpp(15): error C2065: “n”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\幂集\幂集\源.cpp(15): error C2065: “nums”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\幂集\幂集\源.cpp(17): error C2065: “v”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\幂集\幂集\源.cpp(17): error C2065: “nums”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\幂集\幂集\源.cpp(18): error C2065: “res”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\幂集\幂集\源.cpp(18): error C2065: “v”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\幂集\幂集\源.cpp(19): error C2065: “nums”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\幂集\幂集\源.cpp(20): error C2065: “v”: 未声明的标识符
