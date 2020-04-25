@@ -1,0 +1,17 @@
+﻿  源.cpp
+c:\users\13978\desktop\yaogit666\栈的最小值\栈的最小值\源.cpp(4): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+c:\users\13978\desktop\yaogit666\栈的最小值\栈的最小值\源.cpp(4): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\13978\desktop\yaogit666\栈的最小值\栈的最小值\源.cpp(4): error C2238: 意外的标记位于“;”之前
+c:\users\13978\desktop\yaogit666\栈的最小值\栈的最小值\源.cpp(5): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+c:\users\13978\desktop\yaogit666\栈的最小值\栈的最小值\源.cpp(5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\13978\desktop\yaogit666\栈的最小值\栈的最小值\源.cpp(5): error C2238: 意外的标记位于“;”之前
+c:\users\13978\desktop\yaogit666\栈的最小值\栈的最小值\源.cpp(10): error C2065: “s”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\栈的最小值\栈的最小值\源.cpp(11): error C2065: “m”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\栈的最小值\栈的最小值\源.cpp(12): error C2065: “m”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\栈的最小值\栈的最小值\源.cpp(16): error C2065: “s”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\栈的最小值\栈的最小值\源.cpp(18): error C2065: “s”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\栈的最小值\栈的最小值\源.cpp(18): error C2065: “m”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\栈的最小值\栈的最小值\源.cpp(19): error C2065: “m”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\栈的最小值\栈的最小值\源.cpp(20): error C2065: “s”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\栈的最小值\栈的最小值\源.cpp(25): error C2065: “s”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\栈的最小值\栈的最小值\源.cpp(29): error C2065: “m”: 未声明的标识符
