@@ -1,0 +1,8 @@
+﻿  源.cpp
+c:\users\13978\desktop\yaogit666\3步问题\3步问题\源.cpp(7): error C2065: “vector”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\3步问题\3步问题\源.cpp(7): error C2062: 意外的类型“long”
+c:\users\13978\desktop\yaogit666\3步问题\3步问题\源.cpp(8): error C2065: “v”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\3步问题\3步问题\源.cpp(9): error C2065: “v”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\3步问题\3步问题\源.cpp(10): error C2065: “v”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\3步问题\3步问题\源.cpp(14): error C2065: “v”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\3步问题\3步问题\源.cpp(16): error C2065: “v”: 未声明的标识符
