@@ -1,0 +1,7 @@
+﻿  源.cpp
+c:\users\13978\desktop\yaogit666\把数组排成最小的数\把数组排成最小的数\源.cpp(3): error C3646: “minNumber”: 未知重写说明符
+c:\users\13978\desktop\yaogit666\把数组排成最小的数\把数组排成最小的数\源.cpp(3): error C2059: 语法错误:“(”
+c:\users\13978\desktop\yaogit666\把数组排成最小的数\把数组排成最小的数\源.cpp(3): error C2334: “{”的前面有意外标记；跳过明显的函数体
+c:\users\13978\desktop\yaogit666\把数组排成最小的数\把数组排成最小的数\源.cpp(24): error C2061: 语法错误: 标识符“string”
+c:\users\13978\desktop\yaogit666\把数组排成最小的数\把数组排成最小的数\源.cpp(26): error C2065: “s1”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\把数组排成最小的数\把数组排成最小的数\源.cpp(26): error C2065: “s2”: 未声明的标识符
