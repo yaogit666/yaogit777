@@ -1,0 +1,13 @@
+﻿  源.cpp
+c:\users\13978\desktop\yaogit666\检查平衡性\检查平衡性\源.cpp(13): error C2061: 语法错误: 标识符“TreeNode”
+c:\users\13978\desktop\yaogit666\检查平衡性\检查平衡性\源.cpp(17): error C2061: 语法错误: 标识符“TreeNode”
+c:\users\13978\desktop\yaogit666\检查平衡性\检查平衡性\源.cpp(14): error C2065: “root”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\检查平衡性\检查平衡性\源.cpp(18): error C2065: “t”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\检查平衡性\检查平衡性\源.cpp(19): error C2065: “t”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\检查平衡性\检查平衡性\源.cpp(19): error C2660: “Solution::height”: 函数不接受 1 个参数
+  c:\users\13978\desktop\yaogit666\检查平衡性\检查平衡性\源.cpp(17): note: 参见“Solution::height”的声明
+c:\users\13978\desktop\yaogit666\检查平衡性\检查平衡性\源.cpp(20): error C2065: “t”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\检查平衡性\检查平衡性\源.cpp(20): error C2660: “Solution::height”: 函数不接受 1 个参数
+  c:\users\13978\desktop\yaogit666\检查平衡性\检查平衡性\源.cpp(17): note: 参见“Solution::height”的声明
+c:\users\13978\desktop\yaogit666\检查平衡性\检查平衡性\源.cpp(21): error C3861: “abs”: 找不到标识符
+c:\users\13978\desktop\yaogit666\检查平衡性\检查平衡性\源.cpp(22): error C3861: “max”: 找不到标识符
