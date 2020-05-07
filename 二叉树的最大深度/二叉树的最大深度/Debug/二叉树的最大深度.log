@@ -1,0 +1,8 @@
+﻿  源.cpp
+c:\users\13978\desktop\yaogit666\二叉树的最大深度\二叉树的最大深度\源.cpp(3): error C2061: 语法错误: 标识符“TreeNode”
+c:\users\13978\desktop\yaogit666\二叉树的最大深度\二叉树的最大深度\源.cpp(4): error C2065: “root”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\二叉树的最大深度\二叉树的最大深度\源.cpp(4): error C2065: “NULL”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\二叉树的最大深度\二叉树的最大深度\源.cpp(6): error C2065: “root”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\二叉树的最大深度\二叉树的最大深度\源.cpp(6): error C2660: “Solution::maxDepth”: 函数不接受 1 个参数
+  c:\users\13978\desktop\yaogit666\二叉树的最大深度\二叉树的最大深度\源.cpp(3): note: 参见“Solution::maxDepth”的声明
+c:\users\13978\desktop\yaogit666\二叉树的最大深度\二叉树的最大深度\源.cpp(6): error C3861: “max”: 找不到标识符
