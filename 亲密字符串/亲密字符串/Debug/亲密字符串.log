@@ -1,0 +1,25 @@
+﻿  源.cpp
+c:\users\13978\desktop\yaogit666\亲密字符串\亲密字符串\源.cpp(3): error C2061: 语法错误: 标识符“string”
+c:\users\13978\desktop\yaogit666\亲密字符串\亲密字符串\源.cpp(4): error C2065: “A”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\亲密字符串\亲密字符串\源.cpp(4): error C2065: “B”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\亲密字符串\亲密字符串\源.cpp(7): error C2065: “string”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\亲密字符串\亲密字符串\源.cpp(7): error C2146: 语法错误: 缺少“;”(在标识符“sA”的前面)
+c:\users\13978\desktop\yaogit666\亲密字符串\亲密字符串\源.cpp(7): error C2065: “sA”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\亲密字符串\亲密字符串\源.cpp(8): error C2065: “string”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\亲密字符串\亲密字符串\源.cpp(8): error C2146: 语法错误: 缺少“;”(在标识符“sB”的前面)
+c:\users\13978\desktop\yaogit666\亲密字符串\亲密字符串\源.cpp(8): error C2065: “sB”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\亲密字符串\亲密字符串\源.cpp(9): error C2065: “A”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\亲密字符串\亲密字符串\源.cpp(11): error C2065: “A”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\亲密字符串\亲密字符串\源.cpp(11): error C2065: “B”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\亲密字符串\亲密字符串\源.cpp(14): error C2065: “sA”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\亲密字符串\亲密字符串\源.cpp(14): error C2065: “A”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\亲密字符串\亲密字符串\源.cpp(15): error C2065: “sB”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\亲密字符串\亲密字符串\源.cpp(15): error C2065: “B”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\亲密字符串\亲密字符串\源.cpp(20): error C2065: “sA”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\亲密字符串\亲密字符串\源.cpp(20): error C2065: “sB”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\亲密字符串\亲密字符串\源.cpp(27): error C2065: “vector”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\亲密字符串\亲密字符串\源.cpp(27): error C2062: 意外的类型“int”
+c:\users\13978\desktop\yaogit666\亲密字符串\亲密字符串\源.cpp(28): error C2065: “A”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\亲密字符串\亲密字符串\源.cpp(30): error C2065: “v”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\亲密字符串\亲密字符串\源.cpp(30): error C2065: “A”: 未声明的标识符
+c:\users\13978\desktop\yaogit666\亲密字符串\亲密字符串\源.cpp(34): error C2065: “v”: 未声明的标识符
