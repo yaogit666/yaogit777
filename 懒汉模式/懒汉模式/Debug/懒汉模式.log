@@ -1,0 +1,10 @@
+﻿  源.cpp
+c:\users\13978\desktop\yaogit666\懒汉模式\懒汉模式\源.cpp(5): error C2039: “mutex”: 不是“std”的成员
+  c:\users\13978\desktop\yaogit666\懒汉模式\懒汉模式\predefined c++ types (compiler internal)(256): note: 参见“std”的声明
+  c:\users\13978\desktop\yaogit666\懒汉模式\懒汉模式\源.cpp(18): note: 参见对正在编译的 类 模板 实例化 "Singleton<T>" 的引用
+c:\users\13978\desktop\yaogit666\懒汉模式\懒汉模式\源.cpp(5): error C3646: “lock”: 未知重写说明符
+c:\users\13978\desktop\yaogit666\懒汉模式\懒汉模式\源.cpp(5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\13978\desktop\yaogit666\懒汉模式\懒汉模式\源.cpp(9): error C3861: “NULL”: 找不到标识符
+c:\users\13978\desktop\yaogit666\懒汉模式\懒汉模式\源.cpp(11): error C3861: “lock”: 找不到标识符
+c:\users\13978\desktop\yaogit666\懒汉模式\懒汉模式\源.cpp(12): error C3861: “NULL”: 找不到标识符
+c:\users\13978\desktop\yaogit666\懒汉模式\懒汉模式\源.cpp(14): error C3861: “lock”: 找不到标识符
